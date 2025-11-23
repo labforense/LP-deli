@@ -17,7 +17,7 @@ export default function LandingPageVinho() {
     },
     {
       src:
-        'https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=800&q=60',
+        'https://github.com/labforense/LP-deli/blob/main/src/ChatGPT%20Image%2023%20de%20nov.%20de%202025%2C%2014_39_17.png',
       alt: 'Rolha de vinho',
       caption: 'Detalhes do rótulo e rolha',
     },
