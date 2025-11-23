@@ -11,8 +11,8 @@ export default function LandingPageVinho() {
   const images = [
     {
       src:
-        'https://images.unsplash.com/photo-1510627498534-cf7e9002facc?auto=format&fit=crop&w=1200&q=80',
-      alt: 'Garrafa de vinho e taça',
+        'https://github.com/labforense/LP-deli/blob/main/src/Milla%20cala.jpeg,
+      alt: 'Garrafa de vinho',
       caption: 'Seleção especial do dia — entregue em até 1 hora em Cabo Frio',
     },
     {
